@@ -32,8 +32,7 @@
             {
                 Console.WriteLine("Condition is false");
             }
-
-            if (comp1)
+           if (comp1)
             {
                 Console.WriteLine("True");
             }
